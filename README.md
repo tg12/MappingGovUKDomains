@@ -1,5 +1,20 @@
-Welcome file
-Welcome file
+Update, March 23rd.
+
+This got picked up by New Scientist. The link to the article is here.
+
+https://www.newscientist.com/article/2197453-thousands-of-security-flaws-found-on-uk-government-websites/
+
+Helped by a fellow Redditor, Here is the data we used.
+
+https://github.com/nannal/GovUK-CVE
+
+Here is a Reddit post about it. 
+
+https://www.reddit.com/r/netsec/comments/b4g35c/a_post_i_made_about_govuk_domains_here_got_picked/
+
+
+
+
 # MappingGovUKDomains  
 A look into the "state" of the .gov.uk namespace  
   
