@@ -4,7 +4,7 @@ This got picked up by New Scientist. The link to the article is here.
 
 https://www.newscientist.com/article/2197453-thousands-of-security-flaws-found-on-uk-government-websites/
 
-Helped by a fellow Redditor, Here is the data we used.
+Helped by a fellow Redditor, Here is the data we generated.
 
 https://github.com/nannal/GovUK-CVE
 
