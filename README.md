@@ -137,12 +137,10 @@ A list of the unique HTTP Servers found...
  - uk_gov_shropshire
  - w3pcloud
  
-Whilst some of these are actually OK, No footprints etc....Some of them are actually quite good...Those of you who use cloudflare...Kudos. I have guessed there is a HTTPS site at the available address, I might try HTTP later. I know that alot of these are outsourced, I know there are alot of middle level managers (Shame on you!!) to blame here. Not the actual "IT workers" per se, "Good people working under shite conditions". There is a lack of general training, awareness and budget with regards to this kind of stuff which leaves us in a very vulnerable position as a nation.  
+Whilst some of these are actually OK, No footprints etc....Some of them are actually quite good...Those of you who use cloudflare...Kudos. I have guessed there is a HTTPS site at the available address, I might try HTTP later. 
 
 I will be conducting further research, Open to ideas however I am going to map the most commonly used words across all domains (Might be useful to someone out there right?) and some basic security checks.  
   
-I am open to any questions. If you want a copy of test data please contact me. Any inquires welcome.
-
-Shameless plug, Available for paid consultancy work. 
+I am open to any questions. Shameless plug, Available for paid consultancy work. 
 
 Stay Tuned
